@@ -8,6 +8,7 @@ public class Thanks {
 	public void methods() {
 		
 		System.out.println("Thank you bro");
+		System.out.println("checking Updated or not");
 	}
 
 }

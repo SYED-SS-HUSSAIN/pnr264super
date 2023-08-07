@@ -14,13 +14,13 @@ public class WhosIdiot {
 		switch(a)
 		{
 			case 1:
-				System.out.println("yo are idiot");
+				System.out.println("ravi is  idiot");
 				break;
 			case 2:
-				System.out.println("you are obviosly an idiot");
+				System.out.println("ravi is obviosly an idiot");
 				break;
 			case 3:
-				System.out.println("how much you try you still are an idiot");
+				System.out.println("you are fuckin idiot");
 		}
 		sc.close();
 		

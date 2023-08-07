@@ -13,6 +13,7 @@ public class WhosIdiot {
 		int a = sc.nextInt();
 		switch(a)
 		{
+		
 			case 1:
 				System.out.println("yo are idiot");
 				break;
